@@ -3,4 +3,5 @@
 Olá! Bom vindo ao meu livro de receitas
 
 
- - Pizza de frango
+ - Pizza de Bacon
+ - Pavê

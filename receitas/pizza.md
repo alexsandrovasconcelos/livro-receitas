@@ -3,5 +3,5 @@
 **Ingredientes
  
  - Massa de Pizza
- - Frango
+ - Bacon
  - Molho de Tomate
